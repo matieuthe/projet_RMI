@@ -1,4 +1,4 @@
-# TIC TAC TOE with TMI
+# TIC TAC TOE with RMI
 
 This project is a tic tac toe game which can be play over the network.
 Client connect to a server to play against another user or against an AI.
